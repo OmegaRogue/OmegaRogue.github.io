@@ -1,1 +1,1 @@
-# [Website](omegavoid.codes]
+# [Website](omegavoid.codes)
