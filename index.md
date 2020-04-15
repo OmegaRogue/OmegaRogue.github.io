@@ -1,3 +1,3 @@
 # Placeholder
-## [Actual Website](omegavoid.codes)
-## [ConqueringResponsiveLayouts Solutions](omegarogue.github.io/ConqueringResponsiveLayouts/)
+## [Actual Website](https://omegavoid.codes)
+## [ConqueringResponsiveLayouts Solutions](https://omegarogue.github.io/ConqueringResponsiveLayouts/)
